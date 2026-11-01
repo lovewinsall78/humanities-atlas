@@ -1,0 +1,245 @@
+[
+  {
+    "id": "seed-1",
+    "text": "배움은 질문에서 시작된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-2",
+    "text": "한 페이지를 깊이 읽는 시간이 생각을 바꾼다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-3",
+    "text": "작은 실천을 반복하면 삶의 방향이 달라진다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-4",
+    "text": "다른 관점을 이해하는 일은 나의 생각을 넓힌다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-5",
+    "text": "성장은 어제의 나를 돌아보는 데서 시작된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-6",
+    "text": "기록은 흩어진 생각을 다시 만나는 방법이다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-7",
+    "text": "오늘의 질문 하나가 내일의 배움이 된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-8",
+    "text": "어려운 개념일수록 자신의 말로 설명해 보자.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-9",
+    "text": "천천히 읽어도 깊이 이해하면 충분하다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-10",
+    "text": "모르는 것을 인정하는 순간 탐구가 시작된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-11",
+    "text": "배운 내용을 삶에 연결할 때 지식은 살아난다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-12",
+    "text": "다름을 이해하는 태도는 대화의 시작이다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-13",
+    "text": "생각을 바꾸는 일에도 용기가 필요하다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-14",
+    "text": "실패한 시도도 다음 선택의 자료가 된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-15",
+    "text": "Stay curious.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "호기심을 잃지 마세요.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-16",
+    "text": "Small steps still move you forward.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "작은 걸음도 앞으로 나아가는 것입니다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-17",
+    "text": "Progress begins with practice.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "성장은 실천에서 시작됩니다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-18",
+    "text": "Read widely, think deeply.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "넓게 읽고 깊게 생각하세요.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-19",
+    "text": "Questions open new doors.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "질문은 새로운 문을 엽니다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-20",
+    "text": "Make room for a new perspective.",
+    "lang": "en",
+    "category": "English",
+    "meaning": "새로운 관점을 받아들일 여지를 남기세요.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-21",
+    "text": "溫故知新 (온고지신)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "옛것을 익혀 새것을 안다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-22",
+    "text": "學而時習 (학이시습)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "배우고 때때로 익힌다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-23",
+    "text": "切磋琢磨 (절차탁마)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "학문과 인격을 갈고닦는다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-24",
+    "text": "百折不屈 (백절불굴)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "여러 번 꺾여도 굴하지 않는다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-25",
+    "text": "自强不息 (자강불식)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "스스로 힘써 쉬지 않는다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-26",
+    "text": "知彼知己 (지피지기)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "상대와 자신을 안다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-27",
+    "text": "日就月將 (일취월장)",
+    "lang": "hanja",
+    "category": "사자성어",
+    "meaning": "날로 달로 발전한다.",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  }
+]
