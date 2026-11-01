@@ -162,24 +162,6 @@
     "approved": true
   },
   {
-    "id": "seed-19",
-    "text": "Questions open new doors.",
-    "lang": "en",
-    "category": "English",
-    "meaning": "질문은 새로운 문을 엽니다.",
-    "source": "인문학 아틀라스 편집 문구",
-    "approved": true
-  },
-  {
-    "id": "seed-20",
-    "text": "Make room for a new perspective.",
-    "lang": "en",
-    "category": "English",
-    "meaning": "새로운 관점을 받아들일 여지를 남기세요.",
-    "source": "인문학 아틀라스 편집 문구",
-    "approved": true
-  },
-  {
     "id": "seed-21",
     "text": "溫故知新 (온고지신)",
     "lang": "hanja",
@@ -216,29 +198,56 @@
     "approved": true
   },
   {
-    "id": "seed-25",
-    "text": "自强不息 (자강불식)",
-    "lang": "hanja",
-    "category": "사자성어",
-    "meaning": "스스로 힘써 쉬지 않는다.",
+    "id": "seed-ko-0",
+    "text": "좋은 질문은 좋은 답을 찾는 길을 연다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
     "approved": true
   },
   {
-    "id": "seed-26",
-    "text": "知彼知己 (지피지기)",
-    "lang": "hanja",
-    "category": "사자성어",
-    "meaning": "상대와 자신을 안다.",
+    "id": "seed-ko-1",
+    "text": "비교보다 중요한 것은 어제보다 나아지는 일이다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
     "approved": true
   },
   {
-    "id": "seed-27",
-    "text": "日就月將 (일취월장)",
-    "lang": "hanja",
-    "category": "사자성어",
-    "meaning": "날로 달로 발전한다.",
+    "id": "seed-ko-2",
+    "text": "한 번의 독서보다 중요한 것은 지속적인 성찰이다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-ko-3",
+    "text": "배움에는 나이가 아니라 호기심이 필요하다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-ko-4",
+    "text": "서두르지 않아도 멈추지 않으면 된다.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
+    "source": "인문학 아틀라스 편집 문구",
+    "approved": true
+  },
+  {
+    "id": "seed-ko-5",
+    "text": "작은 발견을 소중히 기록하자.",
+    "lang": "ko",
+    "category": "일반",
+    "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
     "approved": true
   }
