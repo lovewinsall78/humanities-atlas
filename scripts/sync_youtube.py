@@ -40,7 +40,7 @@ for i in range(0,len(ids),50):
     for v in batch.get("items",[]):
         if v.get("status",{}).get("privacyStatus")!="public":continue
         sn=v["snippet"];vid=v["id"];old=existing.get(vid,{})
-        records.append({"id":vid,"title":sn["title"],"category":old.get("category","미분류"),"status":old.get("status","자료 확인 중"),"publishedAt":sn.get("publishedAt",""),"description":sn.get("description","")[:250]})
+        records.append({"id":vid,"title":sn["title"],"category":old.get("category","미분류"),"major":old.get("major","미분류"),"subcategory":old.get("subcategory","미분류"),"status":old.get("status","자료 확인 중"),"publishedAt":sn.get("publishedAt",""),"description":sn.get("description","")[:250]})
 records.sort(key=lambda v:v["publishedAt"],reverse=True)
 dest.write_text(json.dumps(records,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("Synced",len(records),"public videos")
