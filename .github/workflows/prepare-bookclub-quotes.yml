@@ -1,0 +1,24 @@
+name: Prepare bookclub quote review queue
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install youtube-transcript-api==1.2.4
+      - run: python scripts/prepare_bookclub_quotes.py
+      - name: Commit review queue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quote_candidates.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Prepare bookclub video quote review queue"
+            git push
+          fi
