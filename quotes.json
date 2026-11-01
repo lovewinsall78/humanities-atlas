@@ -250,5 +250,347 @@
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
     "approved": true
+  },
+  {
+    "id": "bookclub-original-1",
+    "text": "한 권의 책은 새로운 질문을 남길 때 오래 기억된다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-2",
+    "text": "다 읽었다는 사실보다 무엇을 생각했는지가 중요하다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-3",
+    "text": "모르는 단어를 찾아보는 순간 읽기는 탐구가 된다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-4",
+    "text": "책을 덮은 뒤 떠오른 질문을 기록해 보자.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-5",
+    "text": "타인의 문장을 읽으며 나의 생각을 발견한다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-6",
+    "text": "꾸준한 독서는 생각의 근육을 키우는 연습이다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-7",
+    "text": "읽은 것을 한 문장으로 설명하면 이해가 선명해진다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-8",
+    "text": "좋은 독서는 서두르지 않고 다시 읽을 줄 아는 일이다.",
+    "lang": "ko",
+    "category": "독서와 배움",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-9",
+    "text": "역사는 정답 하나보다 여러 원인을 살펴보게 한다.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-10",
+    "text": "오늘의 세계를 이해하려면 어제의 선택을 들여다보자.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-11",
+    "text": "다른 시대의 삶을 상상하는 일은 현재를 다시 보게 한다.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-12",
+    "text": "하나의 사건에도 여러 사람의 이야기가 있다.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-13",
+    "text": "지도 위의 경계보다 사람들의 교류를 먼저 살펴보자.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-14",
+    "text": "역사를 읽는 힘은 사실과 해석을 구분하는 데서 자란다.",
+    "lang": "ko",
+    "category": "역사와 문명",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-15",
+    "text": "당연하다고 여긴 것을 묻는 순간 철학이 시작된다.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-16",
+    "text": "질문을 바꾸면 보이지 않던 선택지가 보인다.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-17",
+    "text": "나의 믿음에도 이유가 있는지 되물어 보자.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-18",
+    "text": "생각의 깊이는 반대 의견을 이해할 때 자란다.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-19",
+    "text": "좋은 논쟁은 사람보다 근거를 살핀다.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-20",
+    "text": "행복의 의미를 묻는 일도 삶의 공부다.",
+    "lang": "ko",
+    "category": "철학과 사상",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-21",
+    "text": "모른다는 말은 탐구의 출발점이다.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-22",
+    "text": "관찰한 사실과 추측한 설명을 구분하자.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-23",
+    "text": "작은 발견은 반복된 질문에서 자란다.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-24",
+    "text": "새로운 증거를 받아들이는 용기도 지성의 일부다.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-25",
+    "text": "과학은 확신보다 검증 가능한 질문을 소중히 여긴다.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-26",
+    "text": "호기심은 일상을 실험실로 바꾼다.",
+    "lang": "ko",
+    "category": "과학과 호기심",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-27",
+    "text": "한 작품을 오래 바라보면 처음 보이지 않던 것이 드러난다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-28",
+    "text": "예술은 하나의 정답보다 풍부한 해석을 초대한다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-29",
+    "text": "이야기 속 타인의 선택을 읽으며 나의 삶을 돌아본다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-30",
+    "text": "낯선 음악 한 곡이 새로운 감각의 문을 연다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-31",
+    "text": "작품의 배경을 알면 감상의 깊이도 달라진다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-32",
+    "text": "문학은 다른 삶을 잠시 살아보게 한다.",
+    "lang": "ko",
+    "category": "예술과 문학",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-33",
+    "text": "완벽한 하루보다 다시 시작하는 하루가 중요하다.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-34",
+    "text": "큰 목표는 오늘 할 수 있는 작은 행동으로 나누자.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-35",
+    "text": "자신의 속도로 배우는 일에도 가치가 있다.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-36",
+    "text": "성찰은 지나간 시간을 다음 선택의 지혜로 바꾼다.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-37",
+    "text": "나를 성장시키는 질문을 매일 하나씩 남기자.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
+  },
+  {
+    "id": "bookclub-original-38",
+    "text": "습관은 거창한 결심보다 반복할 수 있는 환경에서 자란다.",
+    "lang": "ko",
+    "category": "삶과 성장",
+    "meaning": "",
+    "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
+    "approved": true
   }
 ]
