@@ -6,7 +6,8 @@
     "category": "일반",
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
-    "approved": true
+    "approved": true,
+    "english": "Learning begins with a question."
   },
   {
     "id": "seed-2",
@@ -15,7 +16,8 @@
     "category": "일반",
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
-    "approved": true
+    "approved": true,
+    "english": "Reading one page deeply can change how we think."
   },
   {
     "id": "seed-3",
@@ -24,7 +26,8 @@
     "category": "일반",
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
-    "approved": true
+    "approved": true,
+    "english": "Small repeated actions can change the direction of a life."
   },
   {
     "id": "seed-4",
@@ -33,7 +36,8 @@
     "category": "일반",
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
-    "approved": true
+    "approved": true,
+    "english": "Understanding another perspective broadens my own."
   },
   {
     "id": "seed-5",
@@ -60,7 +64,8 @@
     "category": "일반",
     "meaning": "",
     "source": "인문학 아틀라스 편집 문구",
-    "approved": true
+    "approved": true,
+    "english": "One question today becomes tomorrow's learning."
   },
   {
     "id": "seed-8",
@@ -258,7 +263,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-2",
@@ -267,7 +274,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-3",
@@ -276,7 +285,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-4",
@@ -285,7 +296,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-5",
@@ -294,7 +307,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-6",
@@ -303,7 +318,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-7",
@@ -312,7 +329,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-8",
@@ -321,7 +340,9 @@
     "category": "독서와 배움",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-9",
@@ -330,7 +351,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-10",
@@ -339,7 +362,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-11",
@@ -348,7 +373,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-12",
@@ -357,7 +384,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-13",
@@ -366,7 +395,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-14",
@@ -375,7 +406,9 @@
     "category": "역사와 문명",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-15",
@@ -384,7 +417,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-16",
@@ -393,7 +428,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-17",
@@ -402,7 +439,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-18",
@@ -411,7 +450,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-19",
@@ -420,7 +461,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-20",
@@ -429,7 +472,9 @@
     "category": "철학과 사상",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-21",
@@ -438,7 +483,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-22",
@@ -447,7 +494,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-23",
@@ -456,7 +505,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-24",
@@ -465,7 +516,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-25",
@@ -474,7 +527,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-26",
@@ -483,7 +538,9 @@
     "category": "과학과 호기심",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-27",
@@ -492,7 +549,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-28",
@@ -501,7 +560,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-29",
@@ -510,7 +571,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-30",
@@ -519,7 +582,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-31",
@@ -528,7 +593,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-32",
@@ -537,7 +604,9 @@
     "category": "예술과 문학",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-33",
@@ -546,7 +615,9 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-34",
@@ -555,7 +626,9 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-35",
@@ -564,7 +637,9 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-36",
@@ -573,7 +648,9 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-37",
@@ -582,7 +659,9 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
   },
   {
     "id": "bookclub-original-38",
@@ -591,6 +670,294 @@
     "category": "삶과 성장",
     "meaning": "",
     "source": "인문학 아틀라스 · 북클럽 주제 연계 창작 문구",
-    "approved": true
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-4",
+    "text": "Questions open new doors.",
+    "lang": "en",
+    "meaning": "질문은 새로운 문을 엽니다.",
+    "category": "철학과 사상",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-5",
+    "text": "Make room for a new perspective.",
+    "lang": "en",
+    "meaning": "새로운 관점을 받아들일 여지를 남기세요.",
+    "category": "철학과 사상",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-6",
+    "text": "A good question is the beginning of learning.",
+    "lang": "en",
+    "meaning": "좋은 질문은 배움의 시작입니다.",
+    "category": "독서와 배움",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-7",
+    "text": "History becomes clearer when we examine many voices.",
+    "lang": "en",
+    "meaning": "다양한 목소리를 살필 때 역사가 더 선명해집니다.",
+    "category": "역사와 문명",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-8",
+    "text": "Look closely before you judge.",
+    "lang": "en",
+    "meaning": "판단하기 전에 자세히 살펴보세요.",
+    "category": "예술과 문학",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-9",
+    "text": "Evidence makes curiosity stronger.",
+    "lang": "en",
+    "meaning": "근거는 호기심을 더욱 단단하게 만듭니다.",
+    "category": "과학과 호기심",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-10",
+    "text": "One thoughtful page can change a day.",
+    "lang": "en",
+    "meaning": "깊이 읽은 한 페이지가 하루를 바꿀 수 있습니다.",
+    "category": "독서와 배움",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-11",
+    "text": "Keep learning, keep questioning.",
+    "lang": "en",
+    "meaning": "계속 배우고 계속 질문하세요.",
+    "category": "철학과 사상",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-12",
+    "text": "Art invites us to see differently.",
+    "lang": "en",
+    "meaning": "예술은 세상을 다르게 보도록 초대합니다.",
+    "category": "예술과 문학",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-13",
+    "text": "A habit grows through repetition.",
+    "lang": "en",
+    "meaning": "습관은 반복을 통해 자랍니다.",
+    "category": "삶과 성장",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-14",
+    "text": "Be open to changing your mind.",
+    "lang": "en",
+    "meaning": "생각을 바꿀 가능성을 열어 두세요.",
+    "category": "철학과 사상",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-15",
+    "text": "A story can widen your world.",
+    "lang": "en",
+    "meaning": "이야기 하나가 세상을 넓혀 줍니다.",
+    "category": "예술과 문학",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-16",
+    "text": "Understanding begins with listening.",
+    "lang": "en",
+    "meaning": "이해는 귀 기울이는 데서 시작됩니다.",
+    "category": "삶과 성장",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-17",
+    "text": "Think beyond the familiar.",
+    "lang": "en",
+    "meaning": "익숙한 것 너머를 생각해 보세요.",
+    "category": "철학과 사상",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-18",
+    "text": "Let your questions guide your reading.",
+    "lang": "en",
+    "meaning": "질문이 독서의 방향을 이끌게 하세요.",
+    "category": "독서와 배움",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "en-original-19",
+    "text": "Notice the small wonders around you.",
+    "lang": "en",
+    "meaning": "주변의 작은 경이로움을 발견하세요.",
+    "category": "과학과 호기심",
+    "source": "인문학 아틀라스 창작 영문 문구",
+    "approved": true,
+    "verified": true,
+    "origin": "editorial"
+  },
+  {
+    "id": "idiom-0",
+    "text": "讀書三昧 (독서삼매)",
+    "lang": "hanja",
+    "meaning": "다른 생각 없이 책 읽기에 깊이 몰두함.",
+    "category": "독서와 배움",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-1",
+    "text": "博學多識 (박학다식)",
+    "lang": "hanja",
+    "meaning": "널리 배우고 아는 것이 많음.",
+    "category": "독서와 배움",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-2",
+    "text": "愚公移山 (우공이산)",
+    "lang": "hanja",
+    "meaning": "꾸준히 노력하면 큰일도 이룰 수 있다는 뜻.",
+    "category": "삶과 성장",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-3",
+    "text": "初志一貫 (초지일관)",
+    "lang": "hanja",
+    "meaning": "처음 세운 뜻을 끝까지 지킴.",
+    "category": "삶과 성장",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-4",
+    "text": "大器晩成 (대기만성)",
+    "lang": "hanja",
+    "meaning": "큰 인물이나 성과는 오랜 시간이 지나 이루어지기도 함.",
+    "category": "삶과 성장",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-5",
+    "text": "格物致知 (격물치지)",
+    "lang": "hanja",
+    "meaning": "사물의 이치를 탐구하여 앎에 이른다는 뜻.",
+    "category": "철학과 사상",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-6",
+    "text": "三省吾身 (삼성오신)",
+    "lang": "hanja",
+    "meaning": "하루에도 여러 번 자신을 돌아봄.",
+    "category": "철학과 사상",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-7",
+    "text": "敎學相長 (교학상장)",
+    "lang": "hanja",
+    "meaning": "가르치고 배우며 서로 성장함.",
+    "category": "독서와 배움",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-8",
+    "text": "實事求是 (실사구시)",
+    "lang": "hanja",
+    "meaning": "사실에 근거하여 진리를 탐구함.",
+    "category": "과학과 호기심",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
+  },
+  {
+    "id": "idiom-9",
+    "text": "不恥下問 (불치하문)",
+    "lang": "hanja",
+    "meaning": "자신보다 지위나 학식이 낮은 사람에게 묻는 일을 부끄러워하지 않음.",
+    "category": "독서와 배움",
+    "source": "전통 한자성어",
+    "approved": true,
+    "verified": true,
+    "origin": "traditional"
   }
 ]
