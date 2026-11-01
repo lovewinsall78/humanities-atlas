@@ -78,7 +78,11 @@ for i in range(0,len(ids),50):
             major=old["major"]
             subcategory=old.get("subcategory","미분류")
             classification_status="검수 완료"
-        records.append({"id":vid,"title":sn["title"],"category":major,"major":major,"subcategory":subcategory,"classificationStatus":classification_status,"status":old.get("status","자료 확인 중"),"publishedAt":sn.get("publishedAt",""),"description":sn.get("description","")[:250]})
+        record=dict(old)
+        record.update({"id":vid,"title":sn["title"],"category":major,"major":major,"subcategory":subcategory,"classificationStatus":classification_status,"status":old.get("status","자료 확인 중"),"publishedAt":sn.get("publishedAt",""),"description":sn.get("description","")[:250]})
+        # Preserve editorial summaries, key points, reflection questions and approvals
+        # when refreshing metadata. A sync must never erase reviewed learning content.
+        records.append(record)
 records.sort(key=lambda v:v["publishedAt"],reverse=True)
 dest.write_text(json.dumps(records,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("Synced",len(records),"public videos")
