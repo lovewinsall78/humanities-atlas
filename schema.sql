@@ -1,0 +1,35 @@
+-- Supabase SQL Editor에서 실행. 공개 읽기, 관리자 쓰기, 본인 학습기록만 접근.
+create extension if not exists pgcrypto;
+create table if not exists public.profiles (id uuid primary key references auth.users(id) on delete cascade, role text not null default 'reader' check(role in ('reader','admin')));
+create table if not exists public.lessons (id text primary key, title text not null, category text not null, speaker text, video_id text, description text, questions jsonb not null default '[]'::jsonb, quiz jsonb not null default '[]'::jsonb, created_at timestamptz not null default now());
+create table if not exists public.quotes (id text primary key, text text not null, author text not null, category text, created_at timestamptz not null default now());
+create table if not exists public.user_progress (user_id uuid not null references auth.users(id) on delete cascade, lesson_id text not null, favorite boolean not null default false, completed boolean not null default false, note text not null default '', updated_at timestamptz not null default now(), primary key(user_id,lesson_id));
+create or replace function public.make_profile() returns trigger language plpgsql security definer set search_path = '' as $$ begin insert into public.profiles(id,role) values(new.id,'reader') on conflict do nothing; return new; end; $$;
+drop trigger if exists on_auth_user_created on auth.users;
+create trigger on_auth_user_created after insert on auth.users for each row execute function public.make_profile();
+insert into public.profiles(id,role) select id,'reader' from auth.users on conflict do nothing;
+create or replace function public.is_admin() returns boolean language sql stable security definer set search_path = '' as $$ select exists(select 1 from public.profiles where id=(select auth.uid()) and role='admin'); $$;
+alter table public.profiles enable row level security;
+alter table public.lessons enable row level security;
+alter table public.quotes enable row level security;
+alter table public.user_progress enable row level security;
+create policy "own profile read" on public.profiles for select to authenticated using(id=(select auth.uid()));
+create policy "public lessons read" on public.lessons for select to anon,authenticated using(true);
+create policy "admin lessons insert" on public.lessons for insert to authenticated with check(public.is_admin());
+create policy "admin lessons update" on public.lessons for update to authenticated using(public.is_admin()) with check(public.is_admin());
+create policy "admin lessons delete" on public.lessons for delete to authenticated using(public.is_admin());
+create policy "public quotes read" on public.quotes for select to anon,authenticated using(true);
+create policy "admin quotes insert" on public.quotes for insert to authenticated with check(public.is_admin());
+create policy "admin quotes update" on public.quotes for update to authenticated using(public.is_admin()) with check(public.is_admin());
+create policy "admin quotes delete" on public.quotes for delete to authenticated using(public.is_admin());
+create policy "own progress read" on public.user_progress for select to authenticated using(user_id=(select auth.uid()));
+create policy "own progress insert" on public.user_progress for insert to authenticated with check(user_id=(select auth.uid()));
+create policy "own progress update" on public.user_progress for update to authenticated using(user_id=(select auth.uid())) with check(user_id=(select auth.uid()));
+create policy "own progress delete" on public.user_progress for delete to authenticated using(user_id=(select auth.uid()));
+grant select on public.lessons,public.quotes to anon,authenticated;
+grant insert,update,delete on public.lessons,public.quotes to authenticated;
+grant select on public.profiles to authenticated;
+grant select,insert,update,delete on public.user_progress to authenticated;
+grant execute on function public.is_admin() to authenticated;
+-- 최초 관리자는 회원가입 후 SQL Editor에서 이메일을 확인하고 아래 쿼리의 이메일을 수정해 실행:
+-- update public.profiles set role='admin' where id=(select id from auth.users where email='your@email.com');
