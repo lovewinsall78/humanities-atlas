@@ -1,0 +1,43 @@
+name: 동기부여 문구 제안
+description: 영어 명언, 사자성어, 한국어 문구를 제안해 주세요. 공개 이슈로 등록됩니다.
+title: "[문구 제안] "
+labels: ["quote-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제안 내용은 누구나 볼 수 있습니다. 개인정보는 입력하지 마세요.
+        저작권이 있는 긴 문구나 출처를 확인할 수 없는 타인의 글은 등록하지 마세요.
+        운영자가 검수한 후 사이트에 반영합니다.
+  - type: dropdown
+    id: language
+    attributes:
+      label: 문구 유형
+      options:
+        - 한국어
+        - English
+        - 사자성어
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: 문구
+      description: 300자 이내로 입력해 주세요.
+      placeholder: 문구를 붙여넣으세요.
+    validations:
+      required: true
+  - type: textarea
+    id: meaning
+    attributes:
+      label: 번역 또는 뜻풀이
+      description: 영어·사자성어는 한국어 의미를 적어 주세요.
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: 출처·저자
+      description: 출처를 아는 경우 정확히 적어 주세요.
+    validations:
+      required: false
